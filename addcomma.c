@@ -1,3 +1,10 @@
+  
+/**********************
+ * Program : Add Comma in Thousand
+ * Writer  : NAT KANJANASIRI
+ * Date    : Sep 28, 2018
+ * Version : 0.14
+ **********************/
 #include <stdio.h>
 #include <string.h>
 
