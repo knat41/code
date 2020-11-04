@@ -1,4 +1,10 @@
-#include <stdio.h>
+  
+/* FILE    : Dec to Hex Oct Bin
+ * WRITER  : NAT KANJANASIRI
+ * DATE    : OCT 16, 2018
+ * PURPOSE : Convert base 10 to 2, 8, 16
+ */
+ #include <stdio.h>
 
 int main(void){
 	int i = 0, j, base, number;
