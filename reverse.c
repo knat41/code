@@ -1,3 +1,10 @@
+/**********************
+ * Program : Reverse Number
+ * Writer  : NAT KANJANASIRI
+ * Date    : Aug 28, 2020
+ * Version : 0.1
+ **********************/
+
 #include <stdio.h>
 
 int main(void){
