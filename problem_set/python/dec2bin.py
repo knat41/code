@@ -1,7 +1,7 @@
-'''FILE    : Hex Oct Bin to Dec
+'''PROGRAM : DEC to BIN
    WRITER  : NAT KANJANASIRI
    DATE    : OCT 16, 2020
-   PURPOSE : Convert base 2, 8, 16 to base 10'''
+   PURPOSE : Convert base 10 to base 2'''
 number = int(input("Enter number : "))
 obase = ''
 while(number > 0):        
