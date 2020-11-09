@@ -1,3 +1,10 @@
+/**********************
+ * Program : gcd (using loop while)
+ * Writer  : NAT KANJANASIRI
+ * Date    : Sep 28, 2020
+ * Version : 0.14
+ **********************/
+
 #include <stdio.h>
 
 int main(void){
