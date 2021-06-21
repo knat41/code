@@ -1,6 +1,6 @@
 '''PROGRAM : Separate Comma
    WRITER  : NAT KANJANASIRI
-   DATE    : OCT 16, 2020
+   DATE    : JUN 21, 2021
    PURPOSE : '''
 number = input()
 output = ''
