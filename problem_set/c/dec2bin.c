@@ -1,3 +1,8 @@
+/* FILE    : Dec to Hex Oct Bin
+ * WRITER  : NAT KANJANASIRI
+ * DATE    : FEB 1, 2023
+ * PURPOSE : Convert base 10 to 2, 8, 16
+ */
 #include <stdio.h>
 #include <string.h>
 
